@@ -15,17 +15,19 @@ _(The tools that already have a new model)_
 
 ✔ Pickaxe
 
-✖ Axe
+✔ Axe
+
+✔ Sword
 
 ✖ Hoe
 
 ✖ Shovel
 
-✖ Sword
-
 ✖ Bow
 
 ✖ Crossbow
+
+![The tools that are in the mod for now.](https://cdn.modrinth.com/data/cached_images/487f935ffb212345de666ed371f89eb6bf9acfc6.png)
 
 </details>
 
