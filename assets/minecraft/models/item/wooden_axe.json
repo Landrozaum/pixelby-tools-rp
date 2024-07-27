@@ -2,9 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "item/axe_handle",
-		"4": "item/wooden_axe",
-		"5": "item/foliage"
+		"3": "item/axe/handle",
+		"4": "item/axe/wooden_axe",
+		"5": "item/misc/foliage",
+		"particle": "item/misc/foliage"
 	},
 	"elements": [
 		{

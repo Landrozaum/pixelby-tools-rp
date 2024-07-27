@@ -3,10 +3,10 @@
 	"parent": "wooden",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/foliage",
-		"3": "item/wooden_pickaxe",
-		"4": "item/pick_handle",
-		"particle": "item/hoe_handle"
+		"2": "item/misc/foliage",
+		"3": "item/pickaxe/wooden_pickaxe",
+		"4": "item/pickaxe/handle",
+		"particle": "item/misc/foliage"
 	},
 	"elements": [
 		{

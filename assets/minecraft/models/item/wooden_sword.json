@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/foliage",
-		"3": "item/wooden_sword",
-		"5": "item/sword_handle_w",
-		"particle": "item/foliage"
+		"2": "item/misc/foliage",
+		"3": "item/sword/wooden_sword",
+		"5": "item/sword/handle_wooden",
+		"particle": "item/misc/foliage"
 	},
 	"elements": [
 		{
