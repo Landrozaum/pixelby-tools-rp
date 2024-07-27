@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "item/pick_handle",
-		"4": "item/diamond_pickaxe",
+		"4": "item/diamond_pick",
 		"particle": "item/pick_handle"
 	},
 	"elements": [

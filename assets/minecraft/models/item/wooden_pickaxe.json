@@ -5,7 +5,8 @@
 	"textures": {
 		"2": "item/foliage",
 		"3": "item/wooden_pickaxe",
-		"4": "item/pick_handle"
+		"4": "item/pick_handle",
+		"particle": "item/hoe_handle"
 	},
 	"elements": [
 		{
@@ -321,12 +322,12 @@
 			}
 		},
 		{
-			"from": [8, 25, 8],
-			"to": [8, 27, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 25, 8]},
+			"from": [8, 25, 9],
+			"to": [8, 27, 11],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 25, 9]},
 			"faces": {
-				"east": {"uv": [8, 2, 10, 4], "texture": "#2"},
-				"west": {"uv": [10, 2, 8, 4], "texture": "#2"}
+				"east": {"uv": [12, 0, 10, 2], "texture": "#2"},
+				"west": {"uv": [10, 0, 12, 2], "texture": "#2"}
 			}
 		},
 		{
@@ -343,8 +344,8 @@
 			"to": [8, 11.98566, 10.93909],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.98566, 8.93909]},
 			"faces": {
-				"east": {"uv": [12, 0, 10, 2], "texture": "#2"},
-				"west": {"uv": [10, 0, 12, 2], "texture": "#2"}
+				"east": {"uv": [8, 0, 6, 2], "texture": "#2"},
+				"west": {"uv": [6, 0, 8, 2], "texture": "#2"}
 			}
 		},
 		{
