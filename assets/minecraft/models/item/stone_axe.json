@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Landrozaum with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/stone_axe",
-		"3": "item/axe_handle",
-		"particle": "item/stone_axe"
+		"2": "item/axe/stone_axe",
+		"3": "item/misc/handle",
+		"particle": "item/misc/handle"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Landrozaum with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/pick_handle_net",
-		"3": "item/netherite_pickaxe",
-		"particle": "item/pick_handle_net"
+		"2": "item/misc/handle_netherite",
+		"3": "item/pickaxe/netherite_pickaxe",
+		"particle": "item/misc/handle_netherite"
 	},
 	"elements": [
 		{
