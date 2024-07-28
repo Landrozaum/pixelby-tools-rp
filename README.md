@@ -29,6 +29,8 @@ _(The tools that already have a new model)_
 
 ✖ Crossbow
 
+✔ Brush
+
 ![The tools that are in the mod for now.](https://cdn.modrinth.com/data/cached_images/5af69dce2357a5a661fc8c9592a7ae290d570784.png)
 
 </details>
