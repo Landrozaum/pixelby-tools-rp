@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "item/axe/stone_axe",
-		"3": "item/axe/handle",
-		"particle": "item/axe/handle"
+		"3": "item/misc/handle",
+		"particle": "item/misc/handle"
 	},
 	"elements": [
 		{

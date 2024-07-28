@@ -5,7 +5,7 @@
 	"textures": {
 		"2": "item/misc/foliage",
 		"3": "item/pickaxe/wooden_pickaxe",
-		"4": "item/pickaxe/handle",
+		"4": "item/misc/handle",
 		"particle": "item/misc/foliage"
 	},
 	"elements": [

@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "item/hoe/netherite_hoe",
-		"4": "item/hoe/handle_netherite",
-		"particle": "item/hoe/handle_netherite"
+		"4": "item/misc/handle_netherite",
+		"particle": "item/misc/handle_netherite"
 	},
 	"elements": [
 		{

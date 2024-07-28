@@ -4,7 +4,7 @@
 	"textures": {
 		"2": "item/misc/foliage",
 		"3": "item/hoe/wooden_hoe",
-		"4": "item/hoe/handle",
+		"4": "item/misc/handle",
 		"particle": "item/misc/foliage"
 	},
 	"elements": [

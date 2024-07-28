@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/pickaxe/handle",
+		"2": "item/misc/handle",
 		"3": "item/pickaxe/iron_pickaxe",
-		"particle": "item/pickaxe/handle"
+		"particle": "item/misc/handle"
 	},
 	"elements": [
 		{

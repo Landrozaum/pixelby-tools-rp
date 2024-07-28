@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/pickaxe/handle_netherite",
+		"2": "item/misc/handle_netherite",
 		"3": "item/pickaxe/netherite_pickaxe",
-		"particle": "item/pickaxe/handle_netherite"
+		"particle": "item/misc/handle_netherite"
 	},
 	"elements": [
 		{

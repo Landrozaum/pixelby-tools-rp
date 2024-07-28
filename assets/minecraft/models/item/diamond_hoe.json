@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "item/hoe/diamond_hoe",
-		"4": "item/hoe/handle",
-		"particle": "item/hoe/handle"
+		"4": "item/misc/handle",
+		"particle": "item/misc/handle"
 	},
 	"elements": [
 		{
