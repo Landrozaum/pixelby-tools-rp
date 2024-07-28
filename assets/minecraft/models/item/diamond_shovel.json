@@ -2,9 +2,9 @@
 	"credit": "Made by Landrozaum with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "item/misc/handle",
+		"3": "item/shovel/handle",
 		"4": "item/shovel/diamond_shovel",
-		"particle": "item/misc/handle"
+		"particle": "item/shovel/handle"
 	},
 	"elements": [
 		{
