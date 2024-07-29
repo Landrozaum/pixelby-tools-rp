@@ -1,9 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Landrozaum with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "item/netherite_sword",
-		"5": "item/sword_handle_net"
+		"3": "item/sword/netherite_sword",
+		"5": "item/sword/sword_handle_neth",
+		"particle": "item/sword/sword_handle_net"
 	},
 	"elements": [
 		{
