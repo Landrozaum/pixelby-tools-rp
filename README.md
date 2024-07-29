@@ -1,14 +1,12 @@
 ![PixelBy Header](https://cdn.modrinth.com/data/cached_images/c55ceba79671daef3a0ae9ba6a31000418d71bb1.png)
 
-# PixelBy: Tools - A new vision to the tools.
+# PixelBy: Tools - A fancy vision to the tools.
 PixelBy is a Resource Pack that initially adds new models for some vanilla tools, based on leaks from the Minecraft movie and other ideas.
   
 The main goal of this resource pack is to ThreeDe-rize all the tools in Minecraft. However, I decided to release it early to gather feedback from players.
 
-**_PixelBy: Tools is a Resource Pack that fits well in vanilla environment._**
-
 > ###  This Resource Pack is still in early development (beta).
-> Everything can still be improved, and does not represent the final content, if you have an idea or improvement, or you created a model and want it added, be sure to share it with me through github by adding a new issue or creating a pull request.
+> Everything can still be improved, and does not represent the final content, if you have an idea or improvement, be sure to share it with me by creating a feature request in our discord server or by creating a pull request in our github repository (less indicated).
 
 <details>
 <summary>Tool Checklist</summary>
